@@ -1,0 +1,17 @@
+﻿https://pemrogramanmatlab.wordpress.com/2016/09/30/thresholding_citra/
+
+untuk proses cropping tersebut bisa dilakukan menggunakan perintah
+I = imread(‘peppers.png’);
+J = I(100:200,100:300,:);
+figure, imshow(J);
+
+
+https://heyho68.wordpress.com/2016/10/08/tugas-thresholding-citra/
+
+http://angeljohnsy.blogspot.com/2012/05/find-area-perimeter-centroid.html
+http://stackoverflow.com/questions/18383292/matlab-image-processing-find-edge-and-area-of-image
+
+https://pemrogramanmatlab.wordpress.com/2015/09/10/cara-menghitung-luas-keliling-dan-centroid-citra/#more-1063
+
+
+http://ervinahandayani.blogspot.co.id/2015/02/algoritma-sobel-pada-pengolahan-citra.html
